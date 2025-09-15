@@ -1,50 +1,3 @@
-Projeto Inicial: Extrator de Palavras-Chaves
-EZEQUIEL LUCAS TECH
-•
-07:04 (editado: 07:53)
-100 pontos
-Criar os arquivos: 
-index.html
-style.css
-
-E colar os seguintes códigos nos seus respectivos arquivos.
-
-
-
-
-
-index:
-<!DOCTYPE html>
-<html lang="pt-BT">
-
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Extrator de Palavras-Chave</title>
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-<div class="container">
-<h1>Extrator de palavras-chave</h1>
-<textarea id="entrada-de-texto" placeholder="Digite ou cole seu texto aqui..."></textarea>
-<button id="botao-palavrachave">Extrair</button>
-<div id="resultado-palavrachave"></div>
-</div>
-<script src="script.js"></script>
-</body>
-
-</html>
-
-style.css
-CSS
-
-index.html
-HTML
-Comentários da turma
-Seus trabalhos
-Atribuído
-Comentários particulares
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
@@ -131,4 +84,4 @@ h1 {
     max-width: 100%;
     max-height: 50vh;
     overflow: auto;
-  }
+}
