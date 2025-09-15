@@ -16,7 +16,7 @@ function processaTexto(texto) {
   let palavras = texto.split(/\P{L}+/u); 
    let frequencias = [];
    for (let i in palavras){
-    frequrncias [i] = 0;
+    frequencias [i] = 0;
    }
 
 console.log(frequencias);
