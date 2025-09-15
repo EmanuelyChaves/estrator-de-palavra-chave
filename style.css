@@ -29,7 +29,59 @@ body {
     align-items: center;
     gap: 3rem;
     overflow: hidden;
-}
+}no index apagar todas as perguntas e substituir por:
+no index apagar todas as perguntas e substituir por:
+
+ <section id="container">
+            <!-- <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O que é JavaScript?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O JavaScript é uma linguagem de programação</p>
+                    </div>
+                </div>
+            </article> -->
+        </section>
+
+
+em perguntas.js colocar ‘ como no exemplo abaixo:
+
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+
+
+ <section id="container">
+            <!-- <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O que é JavaScript?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O JavaScript é uma linguagem de programação</p>
+                    </div>
+                </div>
+            </article> -->
+        </section>
+
+
+em perguntas.js colocar ‘ como no exemplo abaixo:
+
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+
+
 
 h1 {
     color: var(--cor-destaque);
@@ -38,6 +90,58 @@ h1 {
     font-weight: 600;
     text-transform: uppercase;
 }
+no index apagar todas as perguntas e substituir por:
+
+ <section id="container">
+            <!-- <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">no index apagar todas as perguntas e substituir por:
+
+ <section id="container">
+            <!-- <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O que é JavaScript?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O JavaScript é uma linguagem de programação</p>
+                    </div>
+                </div>
+            </article> -->
+        </section>
+
+
+em perguntas.js colocar ‘ como no exemplo abaixo:
+
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+
+
+                        <p>O que é JavaScript?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O JavaScript é uma linguagem de programação</p>
+                    </div>
+                </div>
+            </article> -->
+        </section>
+
+
+em perguntas.js colocar ‘ como no exemplo abaixo:
+
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+
 
 #entrada-de-texto {
     display: flex;
