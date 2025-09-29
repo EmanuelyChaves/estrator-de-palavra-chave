@@ -15,19 +15,19 @@ function mostraPalavrasChave() {
 function processaTexto(texto) {
   contaFrequenicias(palavras);
   let palavras = texto.split(/\P{L}+/u); 
-   let frequencias = [];
-   for(let i of palavras){
-       frequencias[i]=0;
-   for (let j of palavras){
-      if(i==j){}
-    frequencias[i]++;
+   contaFrequencias(palavras);
+    let frenquecias = {};
+   for (let i of palavras){
+        if (i == j){
+          frenquecias[i]++;
+        }
       }
     }
-  }  
 
-console.log(frequencias);
-
-  return palavras;
+    console.log(frenquecias);
+    return palavras;
 }
 
-function contaR
+function contaFrequencias(palavras){
+
+}
